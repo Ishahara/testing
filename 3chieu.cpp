@@ -1,7 +1,7 @@
 /*Nhập vào một mảng ba chiều với kích thước n x m x p (số mặt, số dòng, số cột).
 Kiểm tra từng phần tử của mảng để xác định xem phần tử đó có phải là số nguyên tố không.
 In ra mảng, thay thế các phần tử không phải số nguyên tố bằng ký hiệu "X".
-Liệt kê các số không phải số nguyên tố trên từng "mặt" của mảng.*/
+Liệt kê các số không phải số nguyên tố trên từng "mặt" của mảng.....*/
 
 #include <bits/stdc++.h>
 
@@ -64,3 +64,4 @@ int main() {
 
     return 0;
 }
+
